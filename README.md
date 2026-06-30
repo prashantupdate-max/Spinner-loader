@@ -4,6 +4,11 @@ Top 10 Modern CSS Loading Animations
 
 Spinner Loader is a premium collection of modern CSS loading animations built using pure HTML and CSS. The project showcases 10 unique loaders displayed inside a beautiful glassmorphism-inspired interface.
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+</p>
 
 
 ---
@@ -36,4 +41,6 @@ Spinner Loader is a premium collection of modern CSS loading animations built us
 ### 🔟 Wave Dots Spinner
 
 ---
+
+⭐ If you like this project, don't forget to **Star** the repository!
 
