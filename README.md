@@ -29,16 +29,16 @@ Spinner Loader is a premium collection of modern CSS loading animations built us
 
 ## 🎯 Included Spinners
 
--1️⃣ Orbit Spinner
--2️⃣ Dual Ring Spinner
--3️⃣ Pulse Spinner
--4️⃣ Neon Spinner
--5️⃣ Infinity Spinner
--6️⃣ Ripple Spinner
--7️⃣ Cube Spinner
--8️⃣ DNA Spinner
--9️⃣ Galaxy Spinner
--🔟 Wave Dots Spinner
+- 1️⃣ Orbit Spinner
+- 2️⃣ Dual Ring Spinner
+- 3️⃣ Pulse Spinner
+- 4️⃣ Neon Spinner
+- 5️⃣ Infinity Spinner
+- 6️⃣ Ripple Spinner
+- 7️⃣ Cube Spinner
+- 8️⃣ DNA Spinner
+- 9️⃣ Galaxy Spinner
+- 🔟 Wave Dots Spinner
 
 ---
 
